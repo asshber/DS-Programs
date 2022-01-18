@@ -1,0 +1,5 @@
+﻿  Inversion.cpp
+C:\Users\alias\source\repos\Inversion\Inversion.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Inversion\Inversion.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Inversion\Inversion.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+  Inversion.vcxproj -> C:\Users\alias\source\repos\Inversion\Debug\Inversion.exe

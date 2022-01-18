@@ -1,0 +1,6 @@
+﻿  Stack Array(Postfix).cpp
+C:\Users\alias\source\repos\Stack Array(Postfix)\Stack Array(Postfix).cpp(79,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Stack Array(Postfix)\Stack Array(Postfix).cpp(77): message : while compiling class template member function 'void Stack<char>::postfix(std::string)'
+C:\Users\alias\source\repos\Stack Array(Postfix)\Stack Array(Postfix).cpp(125): message : see reference to function template instantiation 'void Stack<char>::postfix(std::string)' being compiled
+C:\Users\alias\source\repos\Stack Array(Postfix)\Stack Array(Postfix).cpp(124): message : see reference to class template instantiation 'Stack<char>' being compiled
+  Stack Array(Postfix).vcxproj -> C:\Users\alias\source\repos\Stack Array(Postfix)\Debug\Stack Array(Postfix).exe

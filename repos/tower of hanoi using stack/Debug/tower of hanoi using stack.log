@@ -1,0 +1,3 @@
+﻿  tower of hanoi using stack.cpp
+C:\Users\alias\source\repos\tower of hanoi using stack\tower of hanoi using stack.cpp(105,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  tower of hanoi using stack.vcxproj -> C:\Users\alias\source\repos\tower of hanoi using stack\Debug\tower of hanoi using stack.exe

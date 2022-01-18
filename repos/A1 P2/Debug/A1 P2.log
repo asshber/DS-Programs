@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,18): error C2672: 'std::max': no matching overloaded function found
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): error C2780: '_Ty std::max(std::initializer_list<_Elem>)': expects 1 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\utility(52): message : see declaration of 'std::max'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): error C2780: '_Ty std::max(std::initializer_list<_Elem>,_Pr)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\utility(49): message : see declaration of 'std::max'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): error C2780: 'const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)': expects 2 arguments - 3 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\utility(41): message : see declaration of 'std::max'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): error C2782: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': template parameter '_Ty' is ambiguous
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\utility(32): message : see declaration of 'std::max'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): message : could be 'int'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): message : or       'int *'
+C:\Users\alias\source\repos\A1 P2\Source.cpp(23,31): error C2784: 'const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)': could not deduce template argument for 'const _Ty &' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\utility(32): message : see declaration of 'std::max'

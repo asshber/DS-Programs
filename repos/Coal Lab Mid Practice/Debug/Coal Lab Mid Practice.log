@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(4): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Coal Lab Mid Practice.vcxproj -> C:\Users\alias\source\repos\Coal Lab Mid Practice\Debug\Coal Lab Mid Practice.exe

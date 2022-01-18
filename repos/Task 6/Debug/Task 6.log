@@ -1,0 +1,5 @@
+﻿  Task6.cpp
+C:\Users\alias\source\repos\Task 6\Task6.cpp(74,9): warning C4101: 'tw': unreferenced local variable
+C:\Users\alias\source\repos\Task 6\Task6.cpp(73,9): warning C4101: 'tl': unreferenced local variable
+C:\Users\alias\source\repos\Task 6\Task6.cpp(115): warning C4715: 'compare': not all control paths return a value
+  Task 6.vcxproj -> C:\Users\alias\source\repos\Task 6\Debug\Task 6.exe

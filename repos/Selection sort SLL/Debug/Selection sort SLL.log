@@ -1,0 +1,3 @@
+﻿  Selection sort SLL.cpp
+C:\Users\alias\source\repos\Selection sort SLL\Selection sort SLL.cpp(64,31): warning C4101: 'next_i': unreferenced local variable
+  Selection sort SLL.vcxproj -> C:\Users\alias\source\repos\Selection sort SLL\Debug\Selection sort SLL.exe

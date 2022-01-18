@@ -1,0 +1,19 @@
+﻿  DS Labs Graphs.cpp
+C:\Users\alias\source\repos\DS Labs Graphs\DS Labs Graphs.cpp(5,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alias\source\repos\DS Labs Graphs\DS Labs Graphs.cpp(6,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\alias\source\repos\DS Labs Graphs\Tree23.h(86,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alias\source\repos\DS Labs Graphs\Tree23.h(85): message : while compiling class template member function 'void Tree23<float>::Node::addChild(int,Tree23<float>::Node *)'
+C:\Users\alias\source\repos\DS Labs Graphs\Tree23.h(376): message : see reference to function template instantiation 'void Tree23<float>::Node::addChild(int,Tree23<float>::Node *)' being compiled
+C:\Users\alias\source\repos\DS Labs Graphs\Tree23.h(322): message : see reference to class template instantiation 'Tree23<float>::Node' being compiled
+C:\Users\alias\source\repos\DS Labs Graphs\Tree23.h(312): message : while compiling class template member function 'void Tree23<float>::erase(const T &)'
+          with
+          [
+              T=float
+          ]
+C:\Users\alias\source\repos\DS Labs Graphs\DS Labs Graphs.cpp(26): message : see reference to function template instantiation 'void Tree23<float>::erase(const T &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\Users\alias\source\repos\DS Labs Graphs\DS Labs Graphs.cpp(8): message : see reference to class template instantiation 'Tree23<float>' being compiled
+  DS Labs Graphs.vcxproj -> C:\Users\alias\source\repos\DS Labs Graphs\Debug\DS Labs Graphs.exe

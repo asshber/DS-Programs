@@ -1,0 +1,9 @@
+﻿  Terminology Index Generator.cpp
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(52,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(186,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(218,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(239,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\Terminology Index Generator\Terminology Index Generator.cpp(253,23): warning C4018: '<': signed/unsigned mismatch
+  Terminology Index Generator.vcxproj -> C:\Users\alias\source\repos\Terminology Index Generator\Debug\Terminology Index Generator.exe

@@ -1,0 +1,5 @@
+﻿  A2 P2.cpp
+C:\Users\alias\source\repos\A2 P2\A2 P2.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A2 P2\A2 P2.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A2 P2\A2 P2.cpp(95,20): warning C4018: '<': signed/unsigned mismatch
+  A2 P2.vcxproj -> C:\Users\alias\source\repos\A2 P2\Debug\A2 P2.exe

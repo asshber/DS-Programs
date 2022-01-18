@@ -1,0 +1,7 @@
+﻿  A3 P2 DS.cpp
+C:\Users\alias\source\repos\A3 P2 DS\A3 P2 DS.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A3 P2 DS\A3 P2 DS.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A3 P2 DS\A3 P2 DS.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A3 P2 DS\A3 P2 DS.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\A3 P2 DS\A3 P2 DS.cpp(91,6): warning C4101: 'xyz': unreferenced local variable
+  A3 P2 DS.vcxproj -> C:\Users\alias\source\repos\A3 P2 DS\Debug\A3 P2 DS.exe

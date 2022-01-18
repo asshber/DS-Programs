@@ -1,0 +1,5 @@
+﻿  BST.cpp
+C:\Users\alias\source\repos\BST\BST.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\BST\BST.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\BST\BST.cpp(102): warning C4715: 'BST::deleten': not all control paths return a value
+  BST.vcxproj -> C:\Users\alias\source\repos\BST\Debug\BST.exe

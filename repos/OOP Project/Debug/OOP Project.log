@@ -1,0 +1,16 @@
+﻿  OOP Project.cpp
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(132,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(224,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(233,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(316,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(336,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(635,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(645,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(869,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(885,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(901,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(952,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(982,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\alias\source\repos\OOP Project\OOP Project.cpp(1013,13): warning C4018: '>': signed/unsigned mismatch
+  OOP Project.vcxproj -> C:\Users\alias\source\repos\OOP Project\Debug\OOP Project.exe
